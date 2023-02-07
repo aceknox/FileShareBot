@@ -9,7 +9,7 @@ Telegram Permanent file store bot
 - You can also Do Force Sub to a Channel to allow access the Bot.
 
 ###  Bot:
-<a href="https://t.me/Filesharingandstoringbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/Filesharingandstoringbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ![Configs] 🤖
 
