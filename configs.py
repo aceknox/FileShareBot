@@ -30,16 +30,15 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ◽Developer: [Ace Knox](https://t.me/aceknox) 
 
-◽Bot Support: [Support](https://t.me/knoxbotsgroup)
+◽Bot Support: [Support](https://t.me/knoxsupport)
 
-◽Bot Updates:[Updates](https://t.me/knoxbots)
+◽Bot Updates:[Updates](https://t.me/knoxprojects)
 
 
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 Developer:[Knox](https://t.me/aceknox) 
-
-small engorgement for my works. contact admink
+small engorgement for my works. contact admin
 [Donate Me](https://t.me/aceknox) KNOX
 """
 	HOME_TEXT = """
