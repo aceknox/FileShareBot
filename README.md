@@ -7,7 +7,7 @@ Telegram Permanent file store bot
 - In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
 - You can also Broadcast anythings via this Bot.
 - You can also Do Force Sub to a Channel to allow access the Bot.
-
+- 4GB support
 ###  Bot:
 <a href="https://telegram.me/Filesharingandstoringbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
