@@ -11,7 +11,7 @@ Telegram Permanent file store bot
 ###  Bot:
 <a href="https://telegram.me/Filesharingandstoringbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
-![Configs] 🤖
+### Configs
 
 - `API_ID` - Get this from telegram.org
 - `API_HASH` - Get this from telegram.org)
