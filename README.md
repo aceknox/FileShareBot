@@ -41,4 +41,4 @@ banned_users - Get All Banned Users [Owner Only]
 ```
 
 ## Credits:
-Me😜
+-[Aceknox](https://github.com/aceknox)
