@@ -1,4 +1,4 @@
-**FileStoreBot**
+**FileShareBot**
 
 Telegram Permanent file store bot
 
